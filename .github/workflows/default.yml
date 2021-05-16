@@ -31,4 +31,4 @@ jobs:
         context: ./ubuntu/focal
         file: ./ubuntu/focal/Dockerfile
         push: true
-        tags: coursier-dev:latest
+        tags: ghcr.io/tyrubias/coursier-dev:latest
